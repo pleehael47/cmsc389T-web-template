@@ -16,3 +16,4 @@ Rose quartz: #B2A3B5
 
 ## Custom Changes
 Custom changes I made was adjust the color of my project columns to a greater hue of the existing color. I also added another social media link as well to the footer.
+
